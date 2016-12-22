@@ -1,6 +1,6 @@
 # semver-range
 
-A npm package (research tool) to help with comparison of semantic versions [semver](http://semver.org/).
+npm package (research tool) to help with comparison of semantic version ranges ([semver](http://semver.org/)).
   - semver-range.Comparison categorize changes into upgrade, downgrade, not changed, prerelease, url, and other.
   - semver-range.Diff categorizes changes into major, premajor, minor, premino, patch, prepatch, prerelease, url, and other
 
