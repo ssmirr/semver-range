@@ -1,6 +1,6 @@
 {
   "name": "semver-range",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "A package to help with comparison/diff of semantic version ranges",
   "main": "semver-range.js",
   "scripts": {
