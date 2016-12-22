@@ -12,7 +12,8 @@
     "semver"
   ],
   "author": "Samim Mirhosseini (https://github.com/ssmirr/)",
-  "license": "ISC",
+  "license": "GPL-3.0",
+  "repository": "https://github.com/ssmirr/semver-range",
   "dependencies": {
     "semver": "^5.3.0"
   }
