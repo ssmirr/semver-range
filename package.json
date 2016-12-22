@@ -1,0 +1,19 @@
+{
+  "name": "semver-range",
+  "version": "1.0.0",
+  "description": "A package to help with comparison/diff of semantic version ranges",
+  "main": "semver-range.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "semantic",
+    "version",
+    "semver"
+  ],
+  "author": "Samim Mirhosseini (https://github.com/ssmirr/)",
+  "license": "ISC",
+  "dependencies": {
+    "semver": "^5.3.0"
+  }
+}
