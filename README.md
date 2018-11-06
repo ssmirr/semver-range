@@ -1,4 +1,4 @@
-# semver-range
+# semver-range | [![dependencies Status](https://david-dm.org/ssmirr/semver-range/status.svg)](https://david-dm.org/ssmirr/semver-range) [![Build Status](https://ssmirr.visualstudio.com/semver-range/_apis/build/status/ssmirr.semver-range)](https://ssmirr.visualstudio.com/semver-range/_build/latest?definitionId=3)
 
 npm package (research tool) to help with comparison of semantic version ranges ([semver](http://semver.org/)).
   - semver-range.Comparison categorize changes into upgrade, downgrade, not changed, prerelease, url, and other.
@@ -35,3 +35,4 @@ n npm.)
 TO-DO:
   - Refactoring
   - More test cases
+ 
