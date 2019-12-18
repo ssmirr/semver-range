@@ -16,6 +16,6 @@
   "repository": "https://github.com/ssmirr/semver-range",
   "dependencies": {
     "mocha": "^6.0.2",
-    "semver": "^6.0.0"
+    "semver": "^7.1.1"
   }
 }
