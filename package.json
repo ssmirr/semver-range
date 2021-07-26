@@ -15,7 +15,7 @@
   "license": "GPL-3.0",
   "repository": "https://github.com/ssmirr/semver-range",
   "dependencies": {
-    "mocha": "^7.0.1",
+    "mocha": "^9.0.3",
     "semver": "^7.1.1"
   }
 }
